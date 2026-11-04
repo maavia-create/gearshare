@@ -38,7 +38,7 @@ Follow these instructions to run the project locally.
 
 1. Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+[git clone YOUR_GITHUB_REPOSITORY_URL](https://github.com/maavia-create/gearshare.git)
 
 2. Navigate to the Project
 
